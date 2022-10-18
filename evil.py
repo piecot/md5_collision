@@ -1,2 +1,4 @@
-# coding: latin-1
-a='aaaaa';print('Goodbye Cruel World!') if """ÊµÜ¶Ã0™´«³Ò§œŸ¹ªÈu6~õ…¢~Îû´ÑnKaùÏiJ³Q°Ôñv·Ã6aâ<jâç¥4mŒ~Ñ‰öïDÛhğ¦MR†§î'kt{ÛÛOÃA™ö´ŠõO£_+g™ôôä¤6˜‚¹¦RûèŠuOæ""" == """ÊµÜ¶Ã0™´«³Ò§œŸ¹ªÈu6~õ…¢~Îû´ÑnKaùÏiJ³Q°Ôñv·Ã6aâ<jâç¥4mŒ~Ñ‰öïDÛhğ¦MR†§î'kt{ÛÛOÃA™ö´ŠõO£_+g™ôôä¤6˜‚¹¦RûèŠuOæ""" else print('Hello World!')
+#coding: L1
+print('%s World!'%('Hello','Goodbye Cruel')[ord("""
+À©—„8Ö[Ô­o\®‡âY»§O»AŞA*6ü”"—î­Ìì#jykCÑÀ—85Öé8|ê»©{ê~õÃ“x²J#Q=ÕqÜÁ¢=ç°]Bb=ö6 UÍwÍY2]"GQWi‚p³ÌïYéU‚Àœë©Lfz°Ã&Ö%öÇ
+"""[20])<90])
